@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=Qualcomm Atheros 11ac Wireless LAN Installer
+Version=11.0.10243
+Company=Qualcomm Atheros
+Lang=040a
