@@ -1,0 +1,14 @@
+Thank you for your purchase of TP-LINK products! The releases of this disk is 
+shown below:
+================================================================================
+P/N: CD163A1
+Version: 1.0		
+Date: 2012-10-12
+
+- Add TL-WN751N, TL-WN751ND and TL-WN851ND driver and utility
+
+================================================================================
+New versions of the Driver or User Guide may be released. Please pay attention
+to our website for the new versions.
+
+Website: http://www.tp-link.com
